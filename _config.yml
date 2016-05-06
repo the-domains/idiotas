@@ -1,0 +1,28 @@
+name: idiotas
+favicon: null
+layout_spectrum: 0.4507948448881507
+typography_spectrum: 0.8297521383501589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.38005956588312984
+  lightness: 0.5416644799988717
+  saturation: 0.17114974511787295
+  rhythmicContrast: 0.8497083787806332
+purpose: []
