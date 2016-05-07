@@ -1,7 +1,7 @@
 name: idiotas
 favicon: null
 layout_spectrum: 0.49765
-typography_spectrum: 0.8297521383501589
+typography_spectrum: 0.52431
 title: 'Señor, protege a Panamá de los idiotas - Por Miguel A. Esquivel K. '
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5416644799988717
   saturation: 0
-  rhythmicContrast: 0.8497083787806332
+  rhythmicContrast: 0.75
 purpose: []
