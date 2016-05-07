@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[idiotas]]></title>
         <description><![CDATA[idiotas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/idiotas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 02:30:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 02:49:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/idiotas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Señor, protege a Panamá de los idiotas. ]]></title>
             <description><![CDATA[<article><h1>Señor, protege a Panamá de los idiotas. </h1><p>Por decisión vivo en un país democrático, por fortuna nací en uno hermoso y en mi transito de vida viví la experiencia de perderlo a manos de una dictadura militar lo que me permitió conocer el contraste. </p></article>]]></description>
-            <link>undefinedsenor-protege-a-panama-de-los-idiotas/index.html</link>
+            <link>https://thegrid.ai/idiotas/senor-protege-a-panama-de-los-idiotas/index.html</link>
             <guid isPermaLink="false">7e30c33e-05d8-49f1-b98c-1eb3acac2a2e</guid>
-            <pubDate>Sat, 07 May 2016 02:30:38 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 02:49:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
