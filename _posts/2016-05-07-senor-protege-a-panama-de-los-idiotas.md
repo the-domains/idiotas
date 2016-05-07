@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Por decisión vivo en un país democrático, por fortuna nací en uno hermoso y en mi transito de vida viví la experiencia de perderlo a manos de una dictadura militar lo que me permitió conocer el contraste. '
-datePublished: '2016-05-07T02:57:12.280Z'
-dateModified: '2016-05-07T02:53:20.627Z'
+datePublished: '2016-05-07T03:00:28.569Z'
+dateModified: '2016-05-07T02:57:16.592Z'
 title: 'Señor, protege a Panamá de los idiotas. '
 author: []
 authors: []
@@ -38,5 +38,4 @@ La palabra idiota proviene del griego (idiotes) para referirse a aquel que no se
 
 Señor protege a Panamá de los idiotas es mi aporte para despertar a las "Aces" que viven en mayor numero que los "Jokers" en el juego de naipes del vivir nacional y no permitan que los idiotas se salgan con las suyas exponiéndolos a la luz pública. 
 
-Espero que disfruten leyéndolo tanto como
-yo escribiéndolo. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/473e9321-545e-4c6b-91e8-fc597645f014.jpg)
+Espero que disfruten leyéndolo tanto como yo escribiéndolo. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/473e9321-545e-4c6b-91e8-fc597645f014.jpg)
