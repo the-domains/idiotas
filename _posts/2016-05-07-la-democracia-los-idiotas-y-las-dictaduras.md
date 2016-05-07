@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Por decisión vivo en un país democrático, por fortuna nací en uno hermoso y en mi transito de vida viví la experiencia de perderlo a manos de una dictadura militar lo que me permitió conocer el contraste. '
-datePublished: '2016-05-07T04:29:16.803Z'
-dateModified: '2016-05-07T04:29:14.949Z'
+datePublished: '2016-05-07T04:29:26.899Z'
+dateModified: '2016-05-07T04:29:23.631Z'
 title: ¿Por qué escribo este blog y quienes son los idiotas?
 author: []
 sourcePath: _posts/2016-05-07-la-democracia-los-idiotas-y-las-dictaduras.md
