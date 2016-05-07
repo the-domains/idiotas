@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'El cambio climático, la degradación de la calidad del aire que respiramos y la sistemática destrucción de nuestros bosques son hechos incuestionables,basta con ver la rápida desaparición de los glaciares, las enormes grietas en los casquetes polares y el aumento en el nivel del mar.'
-datePublished: '2016-05-07T03:44:36.984Z'
-dateModified: '2016-05-07T03:44:36.789Z'
+datePublished: '2016-05-07T03:53:05.779Z'
+dateModified: '2016-05-07T03:52:31.753Z'
 title: El abominable árbol que hecha hojas
 author: []
 sourcePath: _posts/2016-05-07-el-abominable-arbol-que-hecha-hojas.md
@@ -21,6 +21,8 @@ url: el-abominable-arbol-que-hecha-hojas/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e284418e-93c0-4967-a310-f52312e23e32.jpg)
+
 # El abominable árbol que hecha hojas
 
 El cambio climático, la degradación de la calidad del aire que respiramos y la sistemática destrucción de nuestros bosques son hechos incuestionables,basta con ver la rápida desaparición de los glaciares, las enormes grietas en los casquetes polares y el aumento en el nivel del mar.
