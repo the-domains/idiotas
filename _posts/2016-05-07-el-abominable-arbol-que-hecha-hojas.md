@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'El cambio climático, la degradación de la calidad del aire que respiramos y la sistemática destrucción de nuestros bosques son hechos incuestionables,basta con ver la rápida desaparición de los glaciares, las enormes grietas en los casquetes polares y el aumento en el nivel del mar.'
-datePublished: '2016-05-07T03:53:05.779Z'
-dateModified: '2016-05-07T03:52:31.753Z'
+datePublished: '2016-05-07T03:55:42.021Z'
+dateModified: '2016-05-07T03:53:53.001Z'
 title: El abominable árbol que hecha hojas
 author: []
 sourcePath: _posts/2016-05-07-el-abominable-arbol-que-hecha-hojas.md
@@ -66,4 +66,4 @@ Un árbol es un monumento vivo, solo Dios puede hacer un árbol, pero, para algu
 
 Ya en Panamá hay empresas que no solo están construyendo proyectos evitando talar árboles, sino que están haciendo casas con árboles dentro de ellas, árboles que atraviesan las casas por dentro y salen por sus techos, hermosas, valiosas y deseables obras de arquitectura, mientras que aun tenemos Panameños con la mentalidad que los árboles, los bosques y todo lo que sale de ellos es malo, nos causa daño y hay que destruirlo.
 
-Por esto y mucho más, te pido Señor, protege a Panamá de los IDIOTAS.
+Por esto y mucho más, te pido Señor, protege a Panamá de los IDIOTAS. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19c54b0-b306-4679-8446-ce907c8d1322.jpg)
