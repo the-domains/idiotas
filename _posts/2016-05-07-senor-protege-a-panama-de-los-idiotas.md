@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Por decisión vivo en un país democrático, por fortuna nací en uno hermoso y en mi transito de vida viví la experiencia de perderlo a manos de una dictadura militar lo que me permitió conocer el contraste. '
-datePublished: '2016-05-07T02:49:04.157Z'
-dateModified: '2016-05-07T02:49:03.655Z'
+datePublished: '2016-05-07T02:57:12.280Z'
+dateModified: '2016-05-07T02:53:20.627Z'
 title: 'Señor, protege a Panamá de los idiotas. '
 author: []
 authors: []
