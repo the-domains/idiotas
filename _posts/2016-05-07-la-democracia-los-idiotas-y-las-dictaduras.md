@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'La democracia, los idiotas y las dictaduras. '
-datePublished: '2016-05-07T03:20:58.339Z'
-dateModified: '2016-05-07T03:19:42.576Z'
+datePublished: '2016-05-07T03:30:05.721Z'
+dateModified: '2016-05-07T03:21:22.115Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-07-la-democracia-los-idiotas-y-las-dictaduras.md
+starred: true
 url: la-democracia-los-idiotas-y-las-dictaduras/index.html
 _type: Article
 
