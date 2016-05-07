@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'El cambio climático, la degradación de la calidad del aire que respiramos y la sistemática destrucción de nuestros bosques son hechos incuestionables,basta con ver la rápida desaparición de los glaciares, las enormes grietas en los casquetes polares y el aumento en el nivel del mar.'
-datePublished: '2016-05-07T03:39:45.748Z'
-dateModified: '2016-05-07T03:37:57.488Z'
+datePublished: '2016-05-07T03:44:36.984Z'
+dateModified: '2016-05-07T03:44:36.789Z'
 title: El abominable árbol que hecha hojas
 author: []
 sourcePath: _posts/2016-05-07-el-abominable-arbol-que-hecha-hojas.md
@@ -27,7 +27,7 @@ El cambio climático, la degradación de la calidad del aire que respiramos y la
 
 Al hablar de estas cosas el IDIOTA salta de inmediato y dice "que me importan los glaciares, en Panamá no hay ninguno".
 
-Pero, ¿qué hay con las islas que ya se están hundiendo en Panamá, la escasez de agua para NUESTRO Canal y el aumento en las enfermedades respiratorias? Al IDIOTA hay que esplicarle las cosas de esta forma ya que no se da por enterado que vivimos en una sola casa llamada PLANETA TIERRA y que no tenemos plan B. 
+Pero, ¿qué hay con las islas que ya se están hundiendo en Panamá, la escasez de agua para NUESTRO Canal y el aumento en las enfermedades respiratorias? Al IDIOTA hay que explicarle las cosas de esta forma ya que no se da por enterado que vivimos en una sola casa llamada PLANETA TIERRA y que no tenemos plan B. 
 
 Cuando hablo del IDIOTA no me refiero a Usted querido lector, ya que los IDIOTAS usualmente no leen mas aya de la tercera linea, Usted ya supero esa prueba. 
 
@@ -56,7 +56,7 @@ Si amigos, los IDIOTAS entraron en acción, las mismas personas que se llenaban 
 Los argumentos favoritos de estos Eco-fóbicos son: El árbol tumbara el muro, el árbol tumbara la casa, le da sombra al césped y el argumento mas común, del IDIOTA, el terror más grande del Eco-fóbico, **_"El árbol echa hojas"._**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e043691-e9b0-4b06-938d-b39641bc8644.jpg)
 
-Ahora solo queda un arbol, mutilado a su mínima expresion, su vida se vio truncada por las mismas personas que él benefició, por las mismas personas que el ayudo a respirar mejor, por un par de IDIOTAS que no hacen el bien ni dejan hacer, solo por que los arboles echaban hojas. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/017ab46c-3922-494b-85bf-3d1d2bfcb59d.jpg)
+Ahora solo queda un árbol, mutilado a su mínima expresión, su vida se vio truncada por las mismas personas que él benefició, por las mismas personas que el ayudo a respirar mejor, por un par de IDIOTAS que no hacen el bien ni dejan hacer, solo por que los arboles echaban hojas. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/017ab46c-3922-494b-85bf-3d1d2bfcb59d.jpg)
 
 No me queda más que suponer que los otros cien árboles que regale, corrieron la misma suerte, ya que no los veo. Cada uno tendrá su triste historia que contar. 
 
