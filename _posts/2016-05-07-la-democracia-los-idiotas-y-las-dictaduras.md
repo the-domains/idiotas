@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Por decisión vivo en un país democrático, por fortuna nací en uno hermoso y en mi transito de vida viví la experiencia de perderlo a manos de una dictadura militar lo que me permitió conocer el contraste. '
-datePublished: '2016-05-07T03:53:22.245Z'
-dateModified: '2016-05-07T03:53:21.891Z'
+datePublished: '2016-05-07T03:58:22.940Z'
+dateModified: '2016-05-07T03:58:03.561Z'
 title: 'Señor, protege a Panamá de los idiotas'
 author: []
 sourcePath: _posts/2016-05-07-la-democracia-los-idiotas-y-las-dictaduras.md
@@ -21,7 +21,7 @@ url: la-democracia-los-idiotas-y-las-dictaduras/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b239f69b-8d9b-423d-a887-2358049bcbdd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6164d86-693c-4562-b13c-a24f26091c55.jpg)
 
 # Señor, protege a Panamá de los idiotas
 
@@ -31,7 +31,7 @@ La democracia es una forma de organización social que atribuye la titularidad d
 
 Todo esto es muy hermoso hasta que aparecen los idiotas y lo arruinan todo. 
 
-Aunque los idiotas son la minoría, así como los "Jokers" en un juego de naipes, hacen estragos con su ignorancia y juega vivo, irrumpiendo nuestra serenidad y desatando el caos. Es entonces cuando producimos tierra fértil para incubar gobiernos dictatoriales o cualquiera de sus sepas ya que les damos la excusa perfecta para que vengan a poner la casa en orden y se dan gusto con nuestro hermoso país. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/611eee04-fc6e-4d82-82f0-8e53de231d5a.jpg)
+Aunque los idiotas son la minoría, así como los "Jokers" en un juego de naipes, hacen estragos con su ignorancia y juega vivo, irrumpiendo nuestra serenidad y desatando el caos. Es entonces cuando producimos tierra fértil para incubar gobiernos dictatoriales o cualquiera de sus sepas ya que les damos la excusa perfecta para que vengan a poner la casa en orden y se dan gusto con nuestro hermoso país. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dfcdad9-49f5-41ce-9e1b-70ad5234187a.jpg)
 
 La palabra idiota es un adjetivo en sentido despectivo ya que hace referencia a una persona con escasa inteligencia, que no comprende lo que se explica o sucede a su alrededor, aunque sea evidente lo que ocurre en torno a él, asimismo, una persona considerada idiota sufre rechazo por parte de la sociedad, ya que se toma como un tonto, imbécil, ignorante y, por ende, sin educación.
 
@@ -39,4 +39,4 @@ La palabra idiota proviene del griego (idiotes) para referirse a aquel que no se
 
 Señor protege a Panamá de los idiotas es mi aporte para despertar a las "Aces" que viven en mayor numero que los "Jokers" en el juego de naipes del vivir nacional y no permitan que los idiotas se salgan con las suyas exponiéndolos a la luz pública. 
 
-Espero que disfruten leyéndolo tanto como yo escribiéndolo.
+Espero que disfruten leyéndolo tanto como yo escribiéndolo. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cda24e0-b787-4b9c-bd3f-19d43831d532.jpg)
